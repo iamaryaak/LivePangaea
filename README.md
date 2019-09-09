@@ -1,5 +1,7 @@
 # LivePangaea
 
+Created at the 2019 Fall PennApps
+
 (https://devpost.com/software/livepangaea "LivePangaea's Devpost")
 
 # What inspired us
