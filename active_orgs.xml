@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<organizations>
+    <hasNext>true</hasNext>
+    <nextOrgId>241</nextOrgId>
+    <organization>
+        <activeProjects>1</activeProjects>
+        <addressLine1>SAMADHAN'S HUMAN RESOURCE CENTER Pocket 2, Sector 2,</addressLine1>
+        <addressLine2>Dwarka</addressLine2>
+        <bridgeId>7303247454</bridgeId>
+        <city>New Delhi</city>
+        <countries>
+            <country>
+                <iso3166CountryCode>IN</iso3166CountryCode>
+                <name>India</name>
+            </country>
+        </countries>
+        <country>India</country>
+        <id>11</id>
+        <iso3166CountryCode>IN</iso3166CountryCode>
+        <logoUrl>https://www.globalgiving.org/pfil/organ/11/orglogo.jpg</logoUrl>
+        <mission>.MISSION STATEMENT: &quot;To establish an infrastructure of accessible services for persons with intellectual disability living in poverty using as far as possible manpower and resources available within target communities, with active community participation, leading to an inclusive society&quot;</mission>
+        <name>Samadhan</name>
+        <postal>110075</postal>
+        <state>Delhi</state>
+        <themes>
+            <theme>
+                <id>children</id>
+                <name>Children</name>
+            </theme>
+            <theme>
+                <id>ecdev</id>
+                <name>Economic Development</name>
+            </theme>
+            <theme>
+                <id>edu</id>
+                <name>Education</name>
+            </theme>
+            <theme>
+                <id>gender</id>
+                <name>Women and Girls</name>
+            </theme>
+            <theme>
+                <id>health</id>
+                <name>Health</name>
+            </theme>
+            <theme>
+                <id>rights</id>
+                <name>Human Rights</name>
+            </theme>
+        </themes>
+        <totalProjects>18</totalProjects>
+        <url>http://www.samadhanindia.org</url>
+    </organization>
+    <organization>
+        <activeProjects>4</activeProjects>
+        <addressLine1>3731-A, Sriram Nagar, Samantarapur, Old Town,</addressLine1>
+        <addressLine2></addressLine2>
+        <bridgeId>4798203845</bridgeId>
+        <city>Bhubaneswar</city>
+        <countries>
+            <country>
+                <iso3166CountryCode>IN</iso3166CountryCode>
+                <name>India</name>
+            </country>
+        </countries>
+        <country>India</country>
+        <id>12</id>
+        <iso3166CountryCode>IN</iso3166CountryCode>
+        <logoUrl>https://www.globalgiving.org/pfil/organ/12/orglogo.jpg</logoUrl>
+        <mission>The mission is to help the children deprived of normal conditions of life and create a society free from child labor, exploitation and abandonment. As the development of these children is worthwhile when they become active participants and positive contributors to their communities, it is aimed to provide joyful and innovative  education, health care, supplementary nutrition, recreation, counseling, vocational training, rehabilitation and repatriation services to these children.</mission>
+        <name>Ruchika Social Service Organisation</name>
+        <postal>751002</postal>
+        <state>Orissa</state>
+        <themes>
+            <theme>
+                <id>children</id>
+                <name>Children</name>
+            </theme>
+            <theme>
+                <id>edu</id>
+                <name>Education</name>
+            </theme>
+            <theme>
+                <id>gender</id>
+                <name>Women and Girls</name>
+            </theme>
+            <theme>
+                <id>health</id>
+                <name>Health</name>
+            </theme>
+        </themes>
+        <totalProjects>8</totalProjects>
+        <url>http://www.ruchika.org</url>
+    </organization>
+    <organization>
+        <activeProjects>3</activeProjects>
+        <addressLine1>11155 Roseland Road, Unit 16</addressLine1>
+        <addressLine2>Unit 16</addressLine2>
+        <bridgeId>7085097119</bridgeId>
+        <city>Sebastian</city>
+        <countries>
+            <country>
+                <iso3166CountryCode>IN</iso3166CountryCode>
+                <name>India</name>
+            </country>
+            <country>
+                <iso3166CountryCode>UG</iso3166CountryCode>
+                <name>Uganda</name>
+            </country>
+            <country>
+                <iso3166CountryCode>US</iso3166CountryCode>
+                <name>United States</name>
+            </country>
+        </countries>
+        <country>United States</country>
+        <ein>59-3212877</ein>
+        <id>46</id>
+        <iso3166CountryCode>US</iso3166CountryCode>
+        <logoUrl>https://www.globalgiving.org/pfil/organ/46/orglogo.jpg</logoUrl>
+        <mission>The River Fund is dedicated to providing physical, emotional and spiritual support, to people living with or affected by HIV/AIDS and other life challenging illnesses and circumstances, as well as their loved ones and caregivers. We serve the poor, those who often are alone and in need - regardless of a person's religion, race, ethnicity, sexual orientation, gender or age.</mission>
+        <name>The River Fund</name>
+        <postal>32958</postal>
+        <state>Florida</state>
+        <themes>
+            <theme>
+                <id>children</id>
+                <name>Children</name>
+            </theme>
+            <theme>
+                <id>ecdev</id>
+                <name>Economic Development</name>
+            </theme>
+            <theme>
+                <id>edu</id>
+                <name>Education</name>
+            </theme>
+            <theme>
+                <id>gender</id>
+                <name>Women and Girls</name>
+            </theme>
+            <theme>
+                <id>health</id>
+                <name>Health</name>
+            </theme>
+            <theme>
+                <id>human</id>
+                <name>Humanitarian Assistance</name>
+            </theme>
+            <theme>
+                <id>rights</id>
+                <name>Human Rights</name>
+            </theme>
+            <theme>
+                <id>hunger</id>
+                <name>Hunger</name>
+            </theme>
+        </themes>
+        <totalProjects>10</totalProjects>
+        <url>http://www.riverfund.org</url>
+    </organization>
+    <organization>
+        <activeProjects>1</activeProjects>
+        <addressLine1>PO Box 44 Observatory</addressLine1>
+        <addressLine2></addressLine2>
+        <bridgeId>6687774519</bridgeId>
+        <city>Cape Town</city>
+        <countries>
+            <country>
+                <iso3166CountryCode>ZA</iso3166CountryCode>
+                <name>South Africa</name>
+            </country>
+        </countries>
+        <country>South Africa</country>
+        <id>56</id>
+        <iso3166CountryCode>ZA</iso3166CountryCode>
+        <logoUrl>https://www.globalgiving.org/pfil/organ/56/orglogo.jpg</logoUrl>
+        <mission>Abalimi is a Volunteer Association working to empower the disadvantaged through its organic Urban Agriculture program &amp; projects.  We support our target groups' ability to replicate their success and transform their lives in their urban and rural environments, through the following Key Result Areas: resource support; training; organisation building; facilitation of partnerships; research, monitoring and evaluation.</mission>
+        <name>Abalimi Bezekhaya - Planters of the Home</name>
+        <postal>7708</postal>
+        <state>Western Cape</state>
+        <themes>
+            <theme>
+                <id>climate</id>
+                <name>Climate Change</name>
+            </theme>
+            <theme>
+                <id>democ</id>
+                <name>Democracy and Governance</name>
+            </theme>
+            <theme>
+                <id>ecdev</id>
+                <name>Economic Development</name>
+            </theme>
+            <theme>
+                <id>edu</id>
+                <name>Education</name>
+            </theme>
+            <theme>
+                <id>env</id>
+                <name>Environment</name>
+            </theme>
+            <theme>
+                <id>gender</id>
+                <name>Women and Girls</name>
+            </theme>
+            <theme>
+                <id>health</id>
+                <name>Health</name>
+            </theme>
+            <theme>
+                <id>rights</id>
+                <name>Human Rights</name>
+            </theme>
+            <theme>
+                <id>hunger</id>
+                <name>Hunger</name>
+            </theme>
+        </themes>
+        <totalProjects>2</totalProjects>
+        <url>http://www.abalimi.org.za</url>
+    </organization>
+    <organization>
+        <activeProjects>2</activeProjects>
+        <addressLine1>Tewa P.O. Box 11, Dhapakhel, Lalitpur</addressLine1>
+        <addressLine2></addressLine2>
+        <bridgeId>3091430783</bridgeId>
+        <city>Lalitpur</city>
+        <countries>
+            <country>
+                <iso3166CountryCode>NP</iso3166CountryCode>
+                <name>Nepal</name>
+            </country>
+        </countries>
+        <country>Nepal</country>
+        <id>129</id>
+        <iso3166CountryCode>NP</iso3166CountryCode>
+        <logoUrl>https://www.globalgiving.org/pfil/organ/129/orglogo.jpg</logoUrl>
+        <mission>Vision: A country without discrimination and injustice, in which all women enjoy their rights, freedom and peace.
+
+Mission: Through funding and capacity development, Tewa supports women to organize, raise their voices collectively and transform discriminatory policies, systems, norms and practices.
+
+Theory of change: &quot;When women struggling with poverty, marginalization and invisibility organize collectively, they amplify their voices, strengthen their leadership, and overcome injustice. Our role as Tewa is to support such groups of women by funding their initiatives, enhancing their capacities, and connecting them to other relevant groups and national initiatives and processes.&quot;
+We have outlined five strategic goals according to Tewa's vision and mission.
+
+Strategic Vision 1: Increase resource mobilization
+
+ Goal 1: Strengthen Tewa to become a sustainable and autonomous feminist fund. 
+
+ Goal 2:  Influence the agenda setting to significantly shift funding mechanisms towards women and ensure women's rights work is supported.
+
+Strategic Vision 2:  Transformative grant making 
+
+ Goal 1:  Support initiatives aimed at transforming the lives of women, especially the most vulnerable and marginalised, through strategic grant making.
+
+ Goal 2: Assist to enhance decision making, participation and leadership to amplify women's voices and make their concerns visible.
+
+ Goal 3: Strengthen movement building so that there is a critical mass of women who can participate, advocate, influence and engage politically
+
+Strategic Vision 3: Strengthen capacity of human resources within Tewa
+
+ Goal 1:  Strengthen leadership by enhancing staff skills and activism.
+
+ Goal 2:  Strengthen strategic communications and creativity.
+
+Strategic Vision 4:  Increase knowledge for informing, persuading and influencing
+
+ Goal 1: Be a source of knowledge and influence regarding how women in Nepal organize and strategise for social justice
+
+ Goal 2: Maintain and renew our information technologies (IT) infrastructure while balancing technology needs with budgetary demands and our other priorities.
+
+Strategic Vision 5: Develop a strong Learning and Evaluation unit 
+
+ Goal 1: Develop, maintain and keep updated, a management information system for learning, monitoring and reporting.</mission>
+        <name>Tewa</name>
+        <postal>PO BOX 11</postal>
+        <state>Nepal</state>
+        <themes>
+            <theme>
+                <id>gender</id>
+                <name>Women and Girls</name>
+            </theme>
+        </themes>
+        <totalProjects>3</totalProjects>
+        <url>http://www.tewa.org.np</url>
+    </organization>
+    <organization>
+        <activeProjects>2</activeProjects>
+        <addressLine1>233 Broadway</addressLine1>
+        <addressLine2>28th Floor</addressLine2>
+        <bridgeId>7701629466</bridgeId>
+        <city>New York</city>
+        <countries>
+            <country>
+                <iso3166CountryCode>BR</iso3166CountryCode>
+                <name>Brazil</name>
+            </country>
+            <country>
+                <iso3166CountryCode>BI</iso3166CountryCode>
+                <name>Burundi</name>
+            </country>
+            <country>
+                <iso3166CountryCode>CM</iso3166CountryCode>
+                <name>Cameroon</name>
+            </country>
+            <country>
+                <iso3166CountryCode>CN</iso3166CountryCode>
+                <name>China</name>
+            </country>
+            <country>
+                <iso3166CountryCode>CO</iso3166CountryCode>
+                <name>Colombia</name>
+            </country>
+            <country>
+                <iso3166CountryCode>CI</iso3166CountryCode>
+                <name>Côte d'Ivoire</name>
+            </country>
+            <country>
+                <iso3166CountryCode>CD</iso3166CountryCode>
+                <name>Congo, Democratic Republic of the</name>
+            </country>
+            <country>
+                <iso3166CountryCode>EC</iso3166CountryCode>
+                <name>Ecuador</name>
+            </country>
+            <country>
+                <iso3166CountryCode>ET</iso3166CountryCode>
+                <name>Ethiopia</name>
+            </country>
+            <country>
+                <iso3166CountryCode>GH</iso3166CountryCode>
+                <name>Ghana</name>
+            </country>
+            <country>
+                <iso3166CountryCode>GT</iso3166CountryCode>
+                <name>Guatemala</name>
+            </country>
+            <country>
+                <iso3166CountryCode>HN</iso3166CountryCode>
+                <name>Honduras</name>
+            </country>
+            <country>
+                <iso3166CountryCode>IN</iso3166CountryCode>
+                <name>India</name>
+            </country>
+            <country>
+                <iso3166CountryCode>ID</iso3166CountryCode>
+                <name>Indonesia</name>
+            </country>
+            <country>
+                <iso3166CountryCode>KE</iso3166CountryCode>
+                <name>Kenya</name>
+            </country>
+            <country>
+                <iso3166CountryCode>LR</iso3166CountryCode>
+                <name>Liberia</name>
+            </country>
+            <country>
+                <iso3166CountryCode>MG</iso3166CountryCode>
+                <name>Madagascar</name>
+            </country>
+            <country>
+                <iso3166CountryCode>MX</iso3166CountryCode>
+                <name>Mexico</name>
+            </country>
+            <country>
+                <iso3166CountryCode>PE</iso3166CountryCode>
+                <name>Peru</name>
+            </country>
+            <country>
+                <iso3166CountryCode>PH</iso3166CountryCode>
+                <name>Philippines</name>
+            </country>
+            <country>
+                <iso3166CountryCode>LK</iso3166CountryCode>
+                <name>Sri Lanka</name>
+            </country>
+            <country>
+                <iso3166CountryCode>TZ</iso3166CountryCode>
+                <name>Tanzania, United Republic of</name>
+            </country>
+            <country>
+                <iso3166CountryCode>US</iso3166CountryCode>
+                <name>United States</name>
+            </country>
+        </countries>
+        <country>United States</country>
+        <ein>13-3377893</ein>
+        <id>167</id>
+        <iso3166CountryCode>US</iso3166CountryCode>
+        <logoUrl>https://www.globalgiving.org/pfil/organ/167/orglogo.jpg</logoUrl>
+        <mission>The Rainforest Alliance works to conserve biodiversity and ensure sustainable livelihoods by transforming land-use practices, business practices and consumer behavior.</mission>
+        <name>Rainforest Alliance</name>
+        <postal>10279</postal>
+        <state>NY</state>
+        <themes>
+            <theme>
+                <id>animals</id>
+                <name>Animals</name>
+            </theme>
+            <theme>
+                <id>climate</id>
+                <name>Climate Change</name>
+            </theme>
+            <theme>
+                <id>ecdev</id>
+                <name>Economic Development</name>
+            </theme>
+            <theme>
+                <id>env</id>
+                <name>Environment</name>
+            </theme>
+        </themes>
+        <totalProjects>6</totalProjects>
+        <url></url>
+    </organization>
+    <organization>
+        <activeProjects>40</activeProjects>
+        <addressLine1>1110 Vermont Avenue NW</addressLine1>
+        <addressLine2>Suite 550</addressLine2>
+        <bridgeId>6612916159</bridgeId>
+        <city>Washington</city>
+        <countries>
+            <country>
+                <iso3166CountryCode>AF</iso3166CountryCode>
+                <name>Afghanistan</name>
+            </country>
+            <country>
+                <iso3166CountryCode>BD</iso3166CountryCode>
+                <name>Bangladesh</name>
+            </country>
+            <country>
+                <iso3166CountryCode>BR</iso3166CountryCode>
+                <name>Brazil</name>
+            </country>
+            <country>
+                <iso3166CountryCode>BF</iso3166CountryCode>
+                <name>Burkina Faso</name>
+            </country>
+            <country>
+                <iso3166CountryCode>KH</iso3166CountryCode>
+                <name>Cambodia</name>
+            </country>
+            <country>
+                <iso3166CountryCode>TD</iso3166CountryCode>
+                <name>Chad</name>
+            </country>
+            <country>
+                <iso3166CountryCode>CL</iso3166CountryCode>
+                <name>Chile</name>
+            </country>
+            <country>
+                <iso3166CountryCode>CN</iso3166CountryCode>
+                <name>China</name>
+            </country>
+            <country>
+                <iso3166CountryCode>CR</iso3166CountryCode>
+                <name>Costa Rica</name>
+            </country>
+            <country>
+                <iso3166CountryCode>CD</iso3166CountryCode>
+                <name>Congo, Democratic Republic of the</name>
+            </country>
+            <country>
+                <iso3166CountryCode>DJ</iso3166CountryCode>
+                <name>Djibouti</name>
+            </country>
+            <country>
+                <iso3166CountryCode>ET</iso3166CountryCode>
+                <name>Ethiopia</name>
+            </country>
+            <country>
+                <iso3166CountryCode>FI</iso3166CountryCode>
+                <name>Finland</name>
+            </country>
+            <country>
+                <iso3166CountryCode>GT</iso3166CountryCode>
+                <name>Guatemala</name>
+            </country>
+            <country>
+                <iso3166CountryCode>GY</iso3166CountryCode>
+                <name>Guyana</name>
+            </country>
+            <country>
+                <iso3166CountryCode>HT</iso3166CountryCode>
+                <name>Haiti</name>
+            </country>
+            <country>
+                <iso3166CountryCode>HK</iso3166CountryCode>
+                <name>Hong Kong</name>
+            </country>
+            <country>
+                <iso3166CountryCode>IN</iso3166CountryCode>
+                <name>India</name>
+            </country>
+            <country>
+                <iso3166CountryCode>ID</iso3166CountryCode>
+                <name>Indonesia</name>
+            </country>
+            <country>
+                <iso3166CountryCode>IT</iso3166CountryCode>
+                <name>Italy</name>
+            </country>
+            <country>
+                <iso3166CountryCode>JP</iso3166CountryCode>
+                <name>Japan</name>
+            </country>
+            <country>
+                <iso3166CountryCode>KE</iso3166CountryCode>
+                <name>Kenya</name>
+            </country>
+            <country>
+                <iso3166CountryCode>MW</iso3166CountryCode>
+                <name>Malawi</name>
+            </country>
+            <country>
+                <iso3166CountryCode>MY</iso3166CountryCode>
+                <name>Malaysia</name>
+            </country>
+            <country>
+                <iso3166CountryCode>ML</iso3166CountryCode>
+                <name>Mali</name>
+            </country>
+            <country>
+                <iso3166CountryCode>MR</iso3166CountryCode>
+                <name>Mauritania</name>
+            </country>
+            <country>
+                <iso3166CountryCode>MA</iso3166CountryCode>
+                <name>Morocco</name>
+            </country>
+            <country>
+                <iso3166CountryCode>MM</iso3166CountryCode>
+                <name>Myanmar</name>
+            </country>
+            <country>
+                <iso3166CountryCode>NA</iso3166CountryCode>
+                <name>Namibia</name>
+            </country>
+            <country>
+                <iso3166CountryCode>NP</iso3166CountryCode>
+                <name>Nepal</name>
+            </country>
+            <country>
+                <iso3166CountryCode>NZ</iso3166CountryCode>
+                <name>New Zealand</name>
+            </country>
+            <country>
+                <iso3166CountryCode>NE</iso3166CountryCode>
+                <name>Niger</name>
+            </country>
+            <country>
+                <iso3166CountryCode>PK</iso3166CountryCode>
+                <name>Pakistan</name>
+            </country>
+            <country>
+                <iso3166CountryCode>PY</iso3166CountryCode>
+                <name>Paraguay</name>
+            </country>
+            <country>
+                <iso3166CountryCode>PH</iso3166CountryCode>
+                <name>Philippines</name>
+            </country>
+            <country>
+                <iso3166CountryCode>RW</iso3166CountryCode>
+                <name>Rwanda</name>
+            </country>
+            <country>
+                <iso3166CountryCode>SN</iso3166CountryCode>
+                <name>Senegal</name>
+            </country>
+            <country>
+                <iso3166CountryCode>SL</iso3166CountryCode>
+                <name>Sierra Leone</name>
+            </country>
+            <country>
+                <iso3166CountryCode>SO</iso3166CountryCode>
+                <name>Somalia</name>
+            </country>
+            <country>
+                <iso3166CountryCode>ZA</iso3166CountryCode>
+                <name>South Africa</name>
+            </country>
+            <country>
+                <iso3166CountryCode>KR</iso3166CountryCode>
+                <name>South Korea</name>
+            </country>
+            <country>
+                <iso3166CountryCode>ES</iso3166CountryCode>
+                <name>Spain</name>
+            </country>
+            <country>
+                <iso3166CountryCode>LK</iso3166CountryCode>
+                <name>Sri Lanka</name>
+            </country>
+            <country>
+                <iso3166CountryCode>SD</iso3166CountryCode>
+                <name>Sudan</name>
+            </country>
+            <country>
+                <iso3166CountryCode>TZ</iso3166CountryCode>
+                <name>Tanzania, United Republic of</name>
+            </country>
+            <country>
+                <iso3166CountryCode>TH</iso3166CountryCode>
+                <name>Thailand</name>
+            </country>
+            <country>
+                <iso3166CountryCode>TR</iso3166CountryCode>
+                <name>Turkey</name>
+            </country>
+            <country>
+                <iso3166CountryCode>UG</iso3166CountryCode>
+                <name>Uganda</name>
+            </country>
+            <country>
+                <iso3166CountryCode>GB</iso3166CountryCode>
+                <name>United Kingdom</name>
+            </country>
+            <country>
+                <iso3166CountryCode>US</iso3166CountryCode>
+                <name>United States</name>
+            </country>
+            <country>
+                <iso3166CountryCode>VN</iso3166CountryCode>
+                <name>Vietnam</name>
+            </country>
+            <country>
+                <iso3166CountryCode>WS</iso3166CountryCode>
+                <name>Samoa</name>
+            </country>
+            <country>
+                <iso3166CountryCode>ZM</iso3166CountryCode>
+                <name>Zambia</name>
+            </country>
+        </countries>
+        <country>United States</country>
+        <ein>30-0108263</ein>
+        <id>189</id>
+        <iso3166CountryCode>US</iso3166CountryCode>
+        <logoUrl>https://www.globalgiving.org/pfil/organ/189/orglogo.jpg</logoUrl>
+        <mission>Our mission is to build an efficient, open, thriving marketplace that connects people who have community and world-changing ideas with people who can support them.</mission>
+        <name>GlobalGiving</name>
+        <postal>20005</postal>
+        <state>D.C.</state>
+        <themes>
+            <theme>
+                <id>animals</id>
+                <name>Animals</name>
+            </theme>
+            <theme>
+                <id>children</id>
+                <name>Children</name>
+            </theme>
+            <theme>
+                <id>democ</id>
+                <name>Democracy and Governance</name>
+            </theme>
+            <theme>
+                <id>disaster</id>
+                <name>Disaster Recovery</name>
+            </theme>
+            <theme>
+                <id>ecdev</id>
+                <name>Economic Development</name>
+            </theme>
+            <theme>
+                <id>edu</id>
+                <name>Education</name>
+            </theme>
+            <theme>
+                <id>env</id>
+                <name>Environment</name>
+            </theme>
+            <theme>
+                <id>finance</id>
+                <name>Microfinance</name>
+            </theme>
+            <theme>
+                <id>gender</id>
+                <name>Women and Girls</name>
+            </theme>
+            <theme>
+                <id>health</id>
+                <name>Health</name>
+            </theme>
+            <theme>
+                <id>rights</id>
+                <name>Human Rights</name>
+            </theme>
+            <theme>
+                <id>tech</id>
+                <name>Technology</name>
+            </theme>
+            <theme>
+                <id>hunger</id>
+                <name>Hunger</name>
+            </theme>
+        </themes>
+        <totalProjects>143</totalProjects>
+        <url>https://www.globalgiving.org</url>
+    </organization>
+    <organization>
+        <activeProjects>5</activeProjects>
+        <addressLine1>76 Arnold Street</addressLine1>
+        <addressLine2>Observatory</addressLine2>
+        <bridgeId>190189464</bridgeId>
+        <city>Cape Town</city>
+        <countries>
+            <country>
+                <iso3166CountryCode>CN</iso3166CountryCode>
+                <name>China</name>
+            </country>
+            <country>
+                <iso3166CountryCode>HT</iso3166CountryCode>
+                <name>Haiti</name>
+            </country>
+            <country>
+                <iso3166CountryCode>ID</iso3166CountryCode>
+                <name>Indonesia</name>
+            </country>
+            <country>
+                <iso3166CountryCode>JP</iso3166CountryCode>
+                <name>Japan</name>
+            </country>
+            <country>
+                <iso3166CountryCode>KE</iso3166CountryCode>
+                <name>Kenya</name>
+            </country>
+            <country>
+                <iso3166CountryCode>MZ</iso3166CountryCode>
+                <name>Mozambique</name>
+            </country>
+            <country>
+                <iso3166CountryCode>PK</iso3166CountryCode>
+                <name>Pakistan</name>
+            </country>
+            <country>
+                <iso3166CountryCode>RW</iso3166CountryCode>
+                <name>Rwanda</name>
+            </country>
+            <country>
+                <iso3166CountryCode>ZA</iso3166CountryCode>
+                <name>South Africa</name>
+            </country>
+            <country>
+                <iso3166CountryCode>TZ</iso3166CountryCode>
+                <name>Tanzania, United Republic of</name>
+            </country>
+            <country>
+                <iso3166CountryCode>ZM</iso3166CountryCode>
+                <name>Zambia</name>
+            </country>
+        </countries>
+        <country>South Africa</country>
+        <ein>13-4133423</ein>
+        <id>193</id>
+        <iso3166CountryCode>ZA</iso3166CountryCode>
+        <logoUrl>https://www.globalgiving.org/pfil/organ/193/orglogo.jpg</logoUrl>
+        <mission>Lifeline Energy is a non-profit social enterprise that provides sustainable information and education access to vulnerable populations. We achieve this by designing, manufacturing and distributing solar and wind-up media players and radios for classroom and group listening. Since 1999, we have distributed more than 500,000 power independent radios to provide on-demand access to information and education, mainly in sub-Saharan Africa. 
+
+Over the years we have received numerous awards including the Tech Museum of Innovation Award, a World Bank Development Marketplace Award and an Index: Design to Improve Life Award. In addition, our founder and CEO Kristine Pearson was named one of TIME magazine's Heroes of the Environment for 2007 and received the James C. Morgan Global Humanitarian Award in 2005.</mission>
+        <name>Lifeline Energy</name>
+        <postal>7925</postal>
+        <state>South Africa</state>
+        <themes>
+            <theme>
+                <id>children</id>
+                <name>Children</name>
+            </theme>
+            <theme>
+                <id>democ</id>
+                <name>Democracy and Governance</name>
+            </theme>
+            <theme>
+                <id>disaster</id>
+                <name>Disaster Recovery</name>
+            </theme>
+            <theme>
+                <id>ecdev</id>
+                <name>Economic Development</name>
+            </theme>
+            <theme>
+                <id>edu</id>
+                <name>Education</name>
+            </theme>
+            <theme>
+                <id>env</id>
+                <name>Environment</name>
+            </theme>
+            <theme>
+                <id>gender</id>
+                <name>Women and Girls</name>
+            </theme>
+            <theme>
+                <id>health</id>
+                <name>Health</name>
+            </theme>
+            <theme>
+                <id>rights</id>
+                <name>Human Rights</name>
+            </theme>
+            <theme>
+                <id>tech</id>
+                <name>Technology</name>
+            </theme>
+        </themes>
+        <totalProjects>30</totalProjects>
+        <url>http://www.lifelineenergy.org</url>
+    </organization>
+    <organization>
+        <activeProjects>2</activeProjects>
+        <addressLine1>175 Rivington #1D</addressLine1>
+        <addressLine2></addressLine2>
+        <bridgeId>6022952862</bridgeId>
+        <city>New York</city>
+        <countries>
+            <country>
+                <iso3166CountryCode>AL</iso3166CountryCode>
+                <name>Albania</name>
+            </country>
+            <country>
+                <iso3166CountryCode>AU</iso3166CountryCode>
+                <name>Australia</name>
+            </country>
+            <country>
+                <iso3166CountryCode>AT</iso3166CountryCode>
+                <name>Austria</name>
+            </country>
+            <country>
+                <iso3166CountryCode>BE</iso3166CountryCode>
+                <name>Belgium</name>
+            </country>
+            <country>
+                <iso3166CountryCode>BA</iso3166CountryCode>
+                <name>Bosnia and Herzegovina</name>
+            </country>
+            <country>
+                <iso3166CountryCode>BR</iso3166CountryCode>
+                <name>Brazil</name>
+            </country>
+            <country>
+                <iso3166CountryCode>CA</iso3166CountryCode>
+                <name>Canada</name>
+            </country>
+            <country>
+                <iso3166CountryCode>CN</iso3166CountryCode>
+                <name>China</name>
+            </country>
+            <country>
+                <iso3166CountryCode>CO</iso3166CountryCode>
+                <name>Colombia</name>
+            </country>
+            <country>
+                <iso3166CountryCode>CU</iso3166CountryCode>
+                <name>Cuba</name>
+            </country>
+            <country>
+                <iso3166CountryCode>CZ</iso3166CountryCode>
+                <name>Czech Republic</name>
+            </country>
+            <country>
+                <iso3166CountryCode>DK</iso3166CountryCode>
+                <name>Denmark</name>
+            </country>
+            <country>
+                <iso3166CountryCode>EE</iso3166CountryCode>
+                <name>Estonia</name>
+            </country>
+            <country>
+                <iso3166CountryCode>FI</iso3166CountryCode>
+                <name>Finland</name>
+            </country>
+            <country>
+                <iso3166CountryCode>FR</iso3166CountryCode>
+                <name>France</name>
+            </country>
+            <country>
+                <iso3166CountryCode>DE</iso3166CountryCode>
+                <name>Germany</name>
+            </country>
+            <country>
+                <iso3166CountryCode>HK</iso3166CountryCode>
+                <name>Hong Kong</name>
+            </country>
+            <country>
+                <iso3166CountryCode>HU</iso3166CountryCode>
+                <name>Hungary</name>
+            </country>
+            <country>
+                <iso3166CountryCode>IS</iso3166CountryCode>
+                <name>Iceland</name>
+            </country>
+            <country>
+                <iso3166CountryCode>IN</iso3166CountryCode>
+                <name>India</name>
+            </country>
+            <country>
+                <iso3166CountryCode>ID</iso3166CountryCode>
+                <name>Indonesia</name>
+            </country>
+            <country>
+                <iso3166CountryCode>IE</iso3166CountryCode>
+                <name>Ireland</name>
+            </country>
+            <country>
+                <iso3166CountryCode>IL</iso3166CountryCode>
+                <name>Israel</name>
+            </country>
+            <country>
+                <iso3166CountryCode>IT</iso3166CountryCode>
+                <name>Italy</name>
+            </country>
+            <country>
+                <iso3166CountryCode>JP</iso3166CountryCode>
+                <name>Japan</name>
+            </country>
+            <country>
+                <iso3166CountryCode>LV</iso3166CountryCode>
+                <name>Latvia</name>
+            </country>
+            <country>
+                <iso3166CountryCode>LB</iso3166CountryCode>
+                <name>Lebanon</name>
+            </country>
+            <country>
+                <iso3166CountryCode>LT</iso3166CountryCode>
+                <name>Lithuania</name>
+            </country>
+            <country>
+                <iso3166CountryCode>MX</iso3166CountryCode>
+                <name>Mexico</name>
+            </country>
+            <country>
+                <iso3166CountryCode>NL</iso3166CountryCode>
+                <name>Netherlands</name>
+            </country>
+            <country>
+                <iso3166CountryCode>NG</iso3166CountryCode>
+                <name>Nigeria</name>
+            </country>
+            <country>
+                <iso3166CountryCode>NO</iso3166CountryCode>
+                <name>Norway</name>
+            </country>
+            <country>
+                <iso3166CountryCode>PR</iso3166CountryCode>
+                <name>Puerto Rico</name>
+            </country>
+            <country>
+                <iso3166CountryCode>RO</iso3166CountryCode>
+                <name>Romania</name>
+            </country>
+            <country>
+                <iso3166CountryCode>SG</iso3166CountryCode>
+                <name>Singapore</name>
+            </country>
+            <country>
+                <iso3166CountryCode>ZA</iso3166CountryCode>
+                <name>South Africa</name>
+            </country>
+            <country>
+                <iso3166CountryCode>KR</iso3166CountryCode>
+                <name>South Korea</name>
+            </country>
+            <country>
+                <iso3166CountryCode>ES</iso3166CountryCode>
+                <name>Spain</name>
+            </country>
+            <country>
+                <iso3166CountryCode>SE</iso3166CountryCode>
+                <name>Sweden</name>
+            </country>
+            <country>
+                <iso3166CountryCode>CH</iso3166CountryCode>
+                <name>Switzerland</name>
+            </country>
+            <country>
+                <iso3166CountryCode>TW</iso3166CountryCode>
+                <name>Taiwan</name>
+            </country>
+            <country>
+                <iso3166CountryCode>TH</iso3166CountryCode>
+                <name>Thailand</name>
+            </country>
+            <country>
+                <iso3166CountryCode>GM</iso3166CountryCode>
+                <name>Gambia, The</name>
+            </country>
+            <country>
+                <iso3166CountryCode>UG</iso3166CountryCode>
+                <name>Uganda</name>
+            </country>
+            <country>
+                <iso3166CountryCode>AE</iso3166CountryCode>
+                <name>United Arab Emirates</name>
+            </country>
+            <country>
+                <iso3166CountryCode>GB</iso3166CountryCode>
+                <name>United Kingdom</name>
+            </country>
+            <country>
+                <iso3166CountryCode>US</iso3166CountryCode>
+                <name>United States</name>
+            </country>
+        </countries>
+        <country>United States</country>
+        <ein>13-4062364</ein>
+        <id>209</id>
+        <iso3166CountryCode>US</iso3166CountryCode>
+        <logoUrl>https://www.globalgiving.org/pfil/organ/209/orglogo.jpg</logoUrl>
+        <mission>Engaging communities worldwide to chart a sustainable future - for all of us!
+
+We empower a diverse perspective-changing movement mapping local natural, social and cultural resources in 950+ diverse cities, villages and neighborhoods in over 65 countries. Developing local sustainability networks since 1995, Green Map System expands the demand for healthy, green choices with our adaptable, experiential and interactive mapmaking resources and universal icons, multilingual websites, workshops and regional hubs.</mission>
+        <name>Green Map System</name>
+        <postal>10002</postal>
+        <state>NY</state>
+        <themes>
+            <theme>
+                <id>climate</id>
+                <name>Climate Change</name>
+            </theme>
+            <theme>
+                <id>ecdev</id>
+                <name>Economic Development</name>
+            </theme>
+            <theme>
+                <id>env</id>
+                <name>Environment</name>
+            </theme>
+            <theme>
+                <id>tech</id>
+                <name>Technology</name>
+            </theme>
+        </themes>
+        <totalProjects>8</totalProjects>
+        <url>http://www.greenmap.org</url>
+    </organization>
+    <organization>
+        <activeProjects>1</activeProjects>
+        <addressLine1>1436 U St NW</addressLine1>
+        <addressLine2>Suite 400</addressLine2>
+        <bridgeId>2634135474</bridgeId>
+        <city>Washington</city>
+        <countries>
+            <country>
+                <iso3166CountryCode>US</iso3166CountryCode>
+                <name>United States</name>
+            </country>
+        </countries>
+        <country>United States</country>
+        <ein>52-1944180</ein>
+        <id>218</id>
+        <iso3166CountryCode>US</iso3166CountryCode>
+        <logoUrl>https://www.globalgiving.org/pfil/organ/218/orglogo.jpg</logoUrl>
+        <mission>Center for Inspired Teaching envisions a future in which every person is prepared to thrive in and contribute to our complex and rapidly changing world, through an education that teaches students how to think.
+
+Inspired Teaching transforms the PreK-12 school system by cultivating changemaking educators who authentically engage their students as active learners and empathetic critical thinkers.</mission>
+        <name>Center for Inspired Teaching</name>
+        <postal>20009</postal>
+        <state>DC</state>
+        <themes>
+            <theme>
+                <id>edu</id>
+                <name>Education</name>
+            </theme>
+        </themes>
+        <totalProjects>1</totalProjects>
+        <url>http://www.inspiredteaching.org</url>
+    </organization>
+</organizations>

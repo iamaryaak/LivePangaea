@@ -1,0 +1,49 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Online?</title>
+  <meta name="description" content="The HTML5 Herald">
+  <meta name="author" content="SitePoint">
+
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+
+</head>
+
+<body>
+  <script src="js/scripts.js"></script>
+
+  <div class="col-sm-6 col-sm-offset-3">
+    <div class="panel panel-default">
+      Online Users
+
+    <script>
+
+      var user = firebase.auth().currentUser;
+      var name, email, photoUrl, uid, emailVerified;
+
+      if (user != null) {
+        name = user.displayName;
+        email = user.email;
+        photoUrl = user.photoURL;
+        emailVerified = user.emailVerified;
+        uid = user.uid;  
+        
+      console.log(name);
+      console.log(email);
+        
+        // The user's ID, unique to the Firebase project. Do NOT use
+                   // this value to authenticate with your backend server, if
+                   // you have one. Use User.getToken() instead.
+}
+
+    </script>
+
+    </div>
+  </div>
+
+
+</body>
+</html>

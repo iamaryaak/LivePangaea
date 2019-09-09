@@ -1,0 +1,8 @@
+
+TWILIO_SID = "ACc1af2ca61d9771eaa4f5fecc1c733ee2"
+
+TWILIO_TOKEN = "a6dd333f4146c84faedbf707916aab28"
+
+twilio_phone_number <- "6672132931"
+
+my_phone_number <- "4438573881"
